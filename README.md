@@ -1,5 +1,6 @@
 # Zoolandia - SimpleServer
-Exercise using database and practicing writing to the console. [See Original Instructions] (/OriginalInstructions.md)
+
+Exercise creating and querying a database, and practicing outputting to the browser. [See Original Instructions] (/OriginalInstructions.md)
 
 ERD I created in [draw.io](http://draw.io) :
 
